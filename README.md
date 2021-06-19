@@ -1,5 +1,5 @@
 # Monster-Economy
-NFT-based Digital Authentication Platform
+NFT-based Digital Authentication Platform  
 monstereconomy.io
 
 Welcome to Monster Economy! 
